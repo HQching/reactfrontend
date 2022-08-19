@@ -24,7 +24,7 @@ function App() {
     var requestOptions = {
       method: "GET",
     };
-    var url = "https://nus-backend1908.herokuapp.com/all";
+    var url = "https://nus-backend1908.herokuapp.com/customer/all";
     // var url = "https://nus-backend.herokuapp.com/customer/all";
     
     console.log(url);
